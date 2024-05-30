@@ -1,0 +1,9 @@
+/*
+	Booking.java
+	@Author André Pont De Anda x23164034
+	04/05/2024
+*/
+
+public class BookingV2{
+	
+}

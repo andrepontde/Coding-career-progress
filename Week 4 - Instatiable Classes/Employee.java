@@ -10,7 +10,6 @@ public class Employee{
 
 	//constructors
 
-
 	//The set methods are used to well... SET the variables inside this class to soemthing else
 
 	//set methods
